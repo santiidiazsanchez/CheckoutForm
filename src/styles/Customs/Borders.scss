@@ -1,0 +1,6 @@
+$border-radius: .75rem;
+$border-radius-sm: $border-radius / 1.5; // 1.5 es un factor arbitrario, puedes ajustarlo según tus necesidades
+$border-radius-lg: $border-radius * 1.33; // 1.33 es otro factor arbitrario
+$border-radius-xl: $border-radius * 2.67; // 2.67 es otro factor arbitrario
+$border-radius-xxl: $border-radius * 5.33; // 5.33 es otro factor arbitrario
+$border-radius-pill: 50rem; // Este valor es constante y representa una forma de "pill"
