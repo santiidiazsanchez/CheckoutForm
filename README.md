@@ -33,10 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 📄 License
-
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
-
 ## 📷 Preview
 
 | ![Imagen 1](preview/LightMode.png) | ![Imagen 2](preview/DarkMode.png) | ![Imagen 3](preview/Mobile.png) |
