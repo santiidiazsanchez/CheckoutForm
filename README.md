@@ -62,3 +62,17 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
     <img src="https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon" />
   </a>
 </p>
+
+## 📄 Additional Information
+
+<p align="center">
+If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
+</p>
+
+<p align="center">
+<b>Last edited:</b> September 9, 2023
+</p>
+
+<p align="center">
+© 2023 Santiago Díaz
+</p>
