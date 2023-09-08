@@ -70,7 +70,7 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 </p>
 
 <p align="center">
-<b>Last edited:</b> September 9, 2023
+<b>Last edited:</b> September 8, 2023
 </p>
 
 <p align="center">
