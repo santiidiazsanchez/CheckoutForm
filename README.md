@@ -37,25 +37,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 | ![Imagen 1](preview/LightMode.png) | ![Imagen 2](preview/DarkMode.png) | ![Imagen 3](preview/Mobile.png) |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-|    [Light Mode](https://www.instagram.com/p/CwoTYChM-iy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)    |    [Dark Mode](https://www.instagram.com/p/CwoTYChM-iy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)    |    [Mobile](https://www.instagram.com/p/CwoTYChM-iy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)    |
-
-
-
-## 📺 See on instagram
-
-<p align="center">
-  <a href="https://www.instagram.com/cleandevcod/">
-  <img src=https://img.shields.io/badge/Profile-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/p/CwoTYChM-iy/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">
-  <img src=https://img.shields.io/badge/This%20Post-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-</p> 
+|    [Light Mode](https://github.com/SantiiD/CheckoutForm)    |    [Dark Mode](https://github.com/SantiiD/CheckoutForm)    |    [Mobile](https://github.com/SantiiD/CheckoutForm)    |
 
 ## 🤝 Support
 
 <p align="center">
-  <a href="https://ko-fi.com/santiagod55" style="text-decoration: none;">
+  <a href="https://ko-fi.com/SantiiD" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
   </a>
   <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
@@ -70,9 +57,9 @@ If you find this project useful, please consider giving it a ⭐️ on GitHub an
 </p>
 
 <p align="center">
-<b>Last edited:</b> September 8, 2023
+<b>Last edited:</b> September 24, 2023
 </p>
 
 <p align="center">
-© 2023 Santiago Díaz
+© 2023 Santi Díaz
 </p>
