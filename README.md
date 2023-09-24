@@ -41,25 +41,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 🤝 Support
 
-<p align="center">
-  <a href="https://ko-fi.com/SantiiD" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Kofi" />
-  </a>
-  <a href="https://patreon.com/user?u=80736594" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon" />
-  </a>
-</p>
+<div align="center">
+
+  [![Kofi](https://img.shields.io/badge/Support%20Me%20on%20Kofi-%23FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/SantiiD)
+  [![Patreon](https://img.shields.io/badge/Support%20Me%20on%20Patreon-%23FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/user?u=80736594)
+
+</div>
 
 ## 📄 Additional Information
 
-<p align="center">
+<div align="center">
+
 If you find this project useful, please consider giving it a ⭐️ on GitHub and sharing it.
-</p>
 
-<p align="center">
-<b>Last edited:</b> September 24, 2023
-</p>
+**Last edited:** September 24, 2023
 
-<p align="center">
 © 2023 Santi Díaz
-</p>
+
+</div>
